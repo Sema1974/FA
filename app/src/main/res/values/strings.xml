@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">FristApp</string>
+    <string name="Titulo">Título</string>
+    <string name="Subtitulo">Subtitulo</string>
+    <string name="opcion_1">Opcion 1</string>
+    <string name="opcion_2">Opcion 2</string>
+    <string name="opcion_3">Opcion 3</string>
+    <string name="texto_1">Texto 1</string>
+    <string name="texto_2">Texto 2</string>
+    <string name="texto_3">Texto 3</string>
 </resources>
